@@ -5,6 +5,6 @@ In this project, the packet payloads will include the time on the machine when t
 server replies with a TimeResponse that contains the same sequence number and timestamp in the
 TimeRequest, as well as a timestamp of when the server sends the TimeResponse. The formats of
 these messages are shown below.
-![GitHub Logo](/protocol-msgs.png)
+![GitHub Logo](/imgs/protocol-msgs.png)
 
-![GitHub Logo](/msgs-format.png)
+![GitHub Logo](/imgs/msgs-format.png)
